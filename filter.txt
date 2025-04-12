@@ -81,6 +81,8 @@
 ##a[href^="http://account.zula.ir/"]
 ##a[href^="http://www.alamto.com/ads/click.php"]
 ##div[style*="position:fixed"][style*="z-index:300"] a[target=_blank]
+##a[href*="panel.adexo.ir/api/v1/main/redirect"]
+##a[href*="/fa/ads/redirect/a/"]
 .ir###popup
 .ir/*/ad/
 .ir/*/ads/
